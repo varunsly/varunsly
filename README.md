@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunsly
 - 👀 I’m interested in Computer Vision and Data Compression algorithms
-- 🌱 I’m currently a final year student at S.P.I.T, Mumbai
+- 🌱 I’m currently working as a Data Specialist 
 - 💞️ I’m looking to collaborate on projects revolving around Adversarial Network
 - 📫 How to reach me varun.magotra7@gmail.com
 
