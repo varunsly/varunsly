@@ -11,13 +11,13 @@
 - ⚡ Fun fact: *I enjoy exploring advanced algorithms and contributing to open-source projects*
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/shivangikochrekar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivangikochrekar" /></a>
+    <a href="https://linkedin.com/in/varun-magotra/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunmagotra" /></a>
     &nbsp;&nbsp;
-    <a href="https://leetcode.com/shivangik01/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="shivangik01"/></a>
+<!--     <a href="https://leetcode.com/shivangik01/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="shivangik01"/></a> -->
     &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/shivangik01" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shivangik01" /></a>
+<!--     <a href="https://www.hackerrank.com/shivangik01" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shivangik01" /></a> -->
     &nbsp;&nbsp;
-    <a href="https://www.kaggle.com/shivangikochrekar" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="shivangikochrekar" /></a>
+<!--     <a href="https://www.kaggle.com/shivangikochrekar" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="shivangikochrekar" /></a> -->
   
 </p>
 
