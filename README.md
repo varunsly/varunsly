@@ -57,10 +57,9 @@
 </p>
 
 <h2 align="left"> 🔥 Stats</h2>
-<img align="center" src="https://streak-stats.demolab.com?user=shivangik01&theme=tokyonight&hide_current_streak=true" alt="shivangik01"/>          
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangik01&show_icons=true&theme=tokyonight&include_all_commits=true&hide=tsql,ShaderLab,CSS,jupyter%20notebook"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangik01&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img align="center" src="https://streak-stats.demolab.com?user=varunsly&theme=highcontrast&hide_border=true&mode=weekly" alt="varunsly"/>          
 
 
 
-<img src="https://komarev.com/ghpvc/?username=shivangik01&style=flat-square&color=blue" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=varunsly&style=flat-square&color=blue" alt=""/>
