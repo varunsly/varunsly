@@ -1,5 +1,5 @@
 
-<h1 align="center">Heyy there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Shivangi</h1>
+<h1 align="center">Heyy there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Varun Magotra</h1>
 
 <h2 align="left"> 💫 About Me: </h2>
 
@@ -7,8 +7,6 @@
 - 🌱 I’m currently diving deep into *Machine Learning, Computer Vision*, and *Deep Learning*
 - 💬 Ask me about *Python, Data Science, and any tech-related stuff*
 - 📫 How to reach me: *vmagotr1@umbc.edu*
-- 😄 Pronouns: *he/him*
-- ⚡ Fun fact: *I enjoy exploring advanced algorithms and contributing to open-source projects*
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
     <a href="https://linkedin.com/in/varun-magotra/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunmagotra" /></a>
